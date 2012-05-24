@@ -16,7 +16,7 @@ STREAM_URL = "https://stream.twitter.com/1/statuses/filter.json"
 # parameters
 pf = {}
 USER = "bunkdeath"
-PASS = "i1a4ukya1543"
+PASS = "*********"
 
 def on_receive(data):
     parseStreamingTweet(data)
